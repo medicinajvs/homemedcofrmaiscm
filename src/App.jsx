@@ -140,7 +140,7 @@ function App() {
                         <div className="w-6 h-6 rounded-lg bg-white flex items-center justify-center">
                             <span className="text-blue-600 text-xs font-bold">MC</span>
                         </div>
-                        <span>MedCof TEC 2025</span>
+                        <span>MedCof R+ CM 2025</span>
                     </div>
                     <CaretDown size={14} className="text-slate-400 opacity-70" />
                 </button>
