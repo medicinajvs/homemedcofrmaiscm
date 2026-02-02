@@ -3,9 +3,9 @@ export const modulesData = [
         id: 1,
         title: "Onboarding",
         submodules: [
-            { title: "Apresentação QBank", desc: "Gustavo Boog", duration: "20 min", link: "https://medicinajvs.github.io/medcofrmaiscm/?modulo=1&submodulo=0" },
-            { title: "Onboarding Ettore", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcofrmaiscm/?modulo=1&submodulo=1" },
-            { title: "Onboarding Matheus Meireles", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcofrmaiscm/?modulo=1&submodulo=2" },
+            { title: "Onboarding: Nossa História e Método", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcofrmaiscm/?modulo=1&submodulo=0" },
+            { title: "Onboarding: Apresentação da Plataforma Medcof Plus", desc: "Gustavo Boog", duration: "20 min", link: "https://medicinajvs.github.io/medcofrmaiscm/?modulo=1&submodulo=1" },
+            { title: "Onboarding: Apresentação QBank", desc: "Aula introdutória", duration: "20 min", link: "https://medicinajvs.github.io/medcofrmaiscm/?modulo=1&submodulo=2" },
             { title: "Onboarding - Apresentação R+", duration: "00:00", type: "aula", videoLink: "https://medicinajvs.github.io/medcofrmaiscm/?modulo=1&submodulo=3" }
         ]
     },
